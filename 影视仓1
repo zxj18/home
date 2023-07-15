@@ -1,0 +1,38 @@
+{
+    "storeHouse": [
+
+        {
+            "sourceName": "🐬海豚影音主仓",
+            "sourceUrl": "https://gitee.com/io9/family/raw/master/family/%E4%B8%BB%E4%BB%93/%E4%BB%93%E9%93%BE"
+        },
+        {
+            "sourceName": " 🐬海豚影音备用仓1",
+            "sourceUrl": "https://gitee.com/io9/family/raw/master/family/%E5%A4%87%E7%94%A8%E4%BB%931/%E4%BB%93%E9%93%BE"
+        },
+        {
+            "sourceName": " 🐬海豚影音备用仓2",
+            "sourceUrl": "https://gitee.com/io9/family/raw/master/family/%E5%A4%87%E7%94%A8%E4%BB%932/%E4%BB%93%E9%93%BE"
+        },
+        {
+            "sourceName": "🐬海豚影音外链仓",
+            "sourceUrl": "https://gitee.com/io9/family/raw/master/family/%E4%BB%93%E9%93%BE3"
+        },
+        {
+            "sourceName": "🐬海豚影音外链仓1",
+            "sourceUrl": "https://agit.ai/n/b/raw/branch/master/o/a.txt"
+        },
+        {
+            "sourceName": "🐬海豚影音外链仓2",
+            "sourceUrl": "https://agit.ai/n/b/raw/branch/master/o/m.txt"
+        },
+        {
+            "sourceName": "🐬海豚影音外链仓3",
+            "sourceUrl": "https://agit.ai/n/b/raw/branch/master/o/b.txt"
+        },
+        {
+            "sourceName": "🐬海豚影音外链仓4",
+            "sourceUrl": "https://agit.ai/n/b/raw/branch/master/o/c.txt"
+        }
+                               
+    ]
+}
