@@ -36,7 +36,7 @@
 //{"key": "如意4K", "name": "🚛如意┃影视", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ruyi.maoyingshi.cc:66/api.php/app/"},
 //{"key":"饭团影视","name":"🚛饭团┃4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/fantuan.json"},
 {"key":"策驰影院","name":"💧策驰影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/cechi.json"},
-{"key":"饭团影视","name":"🍙饭团┃4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/fantuan.json"},
+{"key":"饭团影视","name":"🍙饭团┃4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/fantuan.json","jar":"https://gitee.com/io9/java/raw/master/jar/hccx0821.jar"},
 //{"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 //{"key": "云云资源", "name": "💧云云┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/yunyun.json"},
 {"key":"阿里云盘网","name":"🚛云盘网┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/zxj18/yun/master/json/JS2/aliyunpan.json","jar":"https://gitee.com/io9/java/raw/master/jar/haitungg.txt"},
@@ -96,7 +96,10 @@
 {"key": "py_cctvjs","name": " 🐦央视军事","type": 3,"api": "py_cctvjs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/py_cctvjs.py"},
 {"key": "py_cctvfz","name": " 🐦央视法制","type": 3,"api": "py_cctvfz","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/py_cctvfz.py"},
 {"key": "py_cctvzy","name": " 🐦央视综艺","type": 3,"api": "py_cctvzy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/py_cctvzy.py"},
-{"key": "py_bilimd","name": "B站影视","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"},
+{"key": "py_bilimd","name": "B站影视","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/zyj18/yingshicang/raw/master/TVBox_Py/py/py_bilimd.py"},
+{"key": "py_libvio","name": "libvio影视","type": 3,"api": "py_libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/zyj18/yingshicang/raw/master/TVBox_Py/py/py_libvio.py"},
+{"key": "py_一席","name": "一席影视","type": 3,"api": "py_一席","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/zyj18/yingshicang/raw/master/TVBox_Py/py/py_yixi.py"},
+
 //{"key": " py_中医药","name": " 🐦中医药","type": 3,"api": "py_中医药","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/zyj18/yingshicang/raw/master/TVBox_Py/py/py_%e4%b8%ad%e5%8c%bb%e8%8d%af.py"},
 //{"key": " py_中国文化","name": " 🐦中国文化","type": 3,"api": "py_中国文化","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/zxj18/yun/master/json/JS2/py_%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96.py"},  
 //{"key": "py_kunyu77","name": "酷云77","type": 3,"api": "py_kunyu77","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/zyj18/123/raw/master/kunyu77.py"}, 
@@ -1030,4 +1033,3 @@
 //"keytips": "人生到处知何似，应似飞鸿踏雪泥。——苏轼"
 
 }
-
