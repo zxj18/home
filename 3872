@@ -4,7 +4,7 @@
 
 {"key": "csp_XBPQ 小小电影","name": "️小小电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#香港电影$36",
-       "分类url":"https://www.weihuafrp.com/vodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+       "分类url":"https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
 "跳转播放链接": "https://www.weihuafrp.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
 "二次跳转播放链接":"https://www.weihuafrp.com/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
