@@ -3,8 +3,8 @@
 "sites":[
 
 {"key": "csp_XBPQ 不知名影院","name": "️不知名影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
-       "分类":"电影$1#电视剧$2#综艺$3#动画$4#纪录片$5#体育$35",
-       "分类url":"https://www.tv1080.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+       "分类":"电影$1#电视剧$2#综艺$3#动画$4#纪录片$5",
+       "分类url":"https://www.tv1080.com/type/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
 "跳转播放链接": "https://www.tv1080.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
 "二次跳转播放链接":"https://www.tv1080.com/detail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
