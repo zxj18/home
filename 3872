@@ -3,10 +3,10 @@
 "sites":[
 
 {"key": "csp_XBPQ WO4K","name": "️WO4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
-       "分类":"电影$1#电视剧$2#纪录片$3#演唱会$4#纪录片$5",
+       "分类":"电影片库$1#剧集片库$2#纪录片片库$3#演唱会片库$4",
        "分类url":"https://www.wo4k.com/pianku/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
 "跳转播放链接": "https://www.wo4k.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-"二次跳转播放链接":"https://www.wo4k.com/dowm;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接":"https://www.wo4k.com/down;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 
