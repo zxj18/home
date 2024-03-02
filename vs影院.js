@@ -3,9 +3,9 @@ muban.mxpro.二级.tabs = '#y-playList&&.tab-item';
 var rule = {
     title:'FreeOK',
     模板:'mxpro',
-    host:'https://www.freeok.vip',
+    host:'https://m.yassjzwjd.com/',
     // url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyfilter.html',
+    url:'/siertp/fyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
