@@ -6,7 +6,7 @@
        "分类":"电影$1-0#连续剧$2-0#动漫$4-0#综艺$3-0",
        "分类url":"https://www.bt-tt.com/html/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
 "跳转播放链接": "https://www.bt-tt.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-"二次跳转播放链接": https://www.bt-tt.com/html;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接":"https://www.bt-tt.com/html;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 
