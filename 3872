@@ -1,6 +1,15 @@
 {
 
 "sites":[
+
+{"key": "csp_XBPQ秋霞影视","name": "️🍂┃秋霞┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
+       "分类":"电影$1#连续剧$2#动漫$4#综艺$3",
+       "分类url":"https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+"跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"三次跳转播放链接": "\"url\"*\"&&\""}
+},
+
 {"key":"drpy_js_vs影院","name":"vs影院","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://raw.fastgit.org/zxj18/dr_py-1/main/js/FreeOK.js"},
 {"key": "海豚官方影视","name":"🐬海豚官方影视","type": 3,"api":"https://gitee.com/io9/json/raw/master/海豚官方影视.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/海豚官方影视.json"},
 {"key":"drpy_js_优酷","name":"🐬海豚优酷","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/优酷.js"},
