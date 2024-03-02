@@ -4,9 +4,9 @@
 
 {"key": "csp_XBPQ 好恐怖","name": "️好恐怖","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
        "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
-       "分类url":"https://www.haokongbu.top/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+       "分类url":"https://www.haokongbu.top/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
 "跳转播放链接": "https://www.haokongbu.top/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-"二次跳转播放链接":"https://www.haokongbu.top/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接":"https://www.haokongbu.top/;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 
