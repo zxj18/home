@@ -2,11 +2,11 @@
 
 "sites":[
 
-{"key": "csp_XBPQ bt天堂","name": "️bt天堂","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
-       "分类":"欧美电影$1-0#日韩电影$2-0#动漫$4#综艺$3",
-       "分类url":"https://www.bt-tt.com/html/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
-"跳转播放链接": "https://www.bt-tt.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-"二次跳转播放链接":"https://www.bt-tt.com/html;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+{"key": "csp_XBPQ 80s","name": "️80s","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
+       "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
+       "分类url":"http://www.80sdy.org/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+"跳转播放链接": "http://www.80sdy.org/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接":"http://www.80sdy.org/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 
