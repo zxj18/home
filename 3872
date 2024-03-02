@@ -2,6 +2,14 @@
 
 "sites":[
 
+{"key": "csp_XBPQ 1905","name": "️1905","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
+       "分类":"大片$dp#港片gp$2#内地$nd",
+       "分类url":"https://www.1905.com/vod/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+"跳转播放链接": "https://www.1905.com/vod/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接":"https://www.1905.com/vod/list;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"三次跳转播放链接": "\"url\"*\"&&\""}
+},
+
 {"key": "csp_XBPQ 片库网","name": "️片库网","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
        "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
        "分类url":"https://m.yuheqz.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
