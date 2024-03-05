@@ -2,6 +2,17 @@
 
 "sites":[
 
+          {
+      "key": "更多资源",
+      "name": "🛒软件下载",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "http://8.210.232.168/gzh.json",
+      "jar": "http://8.210.232.168/fm商店.jar"
+    },
+
 {"key": "csp_XBPQ WO4K","name": "️WO4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
        "分类":"电影片库$1#剧集片库$2#纪录片片库$3#演唱会片库$4",
        "分类url":"https://www.wo4k.com/pianku/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
