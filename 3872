@@ -9,13 +9,14 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "http://8.210.232.168/gzh.json",
+      "ext": "https://gitee.com/io9/family/raw/master/json/JS2/%E5%9C%A8%E7%BA%BF%E4%B8%8B%E8%BD%BD.json",
       "jar": "http://8.210.232.168/fm商店.jar"
     },
 
 {"key": "csp_XBPQ 短剧","name": "️短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
-       "分类":"逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng",
-       "分类url":"https://www.duanju5.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+        "分类链接": "https://www.duanju5.com/vodtype/{cateId}-{catePg}.html",
+        "分类名称": "逆袭&甜宠&虐恋&穿越&重生",
+        "分类名称替换词": "nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng",
 "跳转播放链接": "https://www.duanju5.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
 "二次跳转播放链接":"https://www.duanju5.com/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
