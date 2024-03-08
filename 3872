@@ -21,7 +21,7 @@
       "api": "csp_XYQHiker",
       "jar": "https://agit.ai/hu/hcr/raw/branch/master//lib/dj2.jar",
       "searchable": 0,
-      "quickSearch": 0,{"key":"meowtv_海豚短剧","name":"🐬海豚短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/"},
+      "quickSearch": 0,
       "filterable": 1,
       "ext": {
         "规则名": "短剧网",
