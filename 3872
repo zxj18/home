@@ -2,7 +2,7 @@
 
 "sites":[
 
-{"key":"js_晚秋","name":"🐬晚秋","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://gitee.com/io9/yun/raw/master/json/JS2/js/%E6%99%9A%E7%A7%8B%E5%BD%B1%E9%99%A2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js_晚秋","name":"🐬晚秋","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://gitee.com/io9/yun/raw/master/json/JS2/%E6%99%9A%E7%A7%8B%E5%BD%B1%E9%99%A2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
           {
       "key": "更多资源",
       "name": "🛒软件下载",
