@@ -199,7 +199,7 @@
 },
 
 {"key": "海豚官方影视","name":"🐬海豚官方影视","type": 3,"api":"https://gitee.com/io9/json/raw/master/海豚官方影视.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/海豚官方影视.json"},
-{"key":"js_海豚超清影院","name":"🐬海豚超清影院","type":3,"api":"https://agit.ai/hu/hcr/raw/branch/master/lib/apiv15drpy2.min.js","ext":"https://gitee.com/io9/yun/raw/master/json/JS2/js/%E6%B5%B7%E8%B1%9A%E8%B6%85%E6%B8%85%E5%BD%B1%E9%99%A2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js_海豚超清影院","name":"🐬海豚超清影院","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://gitee.com/io9/yun/raw/master/json/JS2/js/%E6%B5%B7%E8%B1%9A%E8%B6%85%E6%B8%85%E5%BD%B1%E9%99%A2.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js_荐片","name":"🎬荐片js","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://agit.ai/hu/hcr/raw/branch/master/lib/%e8%8d%90%e7%89%87.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_优酷","name":"🐬海豚优酷","type":3,"api":"https://gitee.com/io9/json/raw/master/json/JS2/lib/drpy2.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/优酷.js"},
 {"key":"drpy_js_奇珍异兽","name":"🐬海豚爱奇艺","type":3,"api":"https://gitee.com/io9/json/raw/master/json/xiaosa/drpy.min.js","ext":"https://raw.fastgit.org/zxj18/hailjson/master/json/JS2/奇珍异兽.js"},
