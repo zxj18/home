@@ -15,7 +15,7 @@
 
 {"key":"meowtv_海豚短剧","name":"🐬海豚短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/"},
 
-{"key":"量子短剧","name":"量子短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":["伦理"],"categories":["短剧"]},
+{"key":"量子短剧","name":"量子短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":1,"categories":["短剧"]},
 
     {
       "key": "csp_短剧",
