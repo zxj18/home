@@ -124,8 +124,8 @@
 },
 
 {"key": "csp_XBPQ 晚秋影院","name": "️晚秋影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
-       "分类":"电影$1#电视剧$2#综艺$3#动漫$4#动画片$34#短剧$35#影视解说$36#演唱会$37",
-       "分类url":"https://www.guangyuhb.com/vodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+       "分类":"动作片$6#电视剧$2#综艺$3#动漫$4#动画片$34#短剧$35#影视解说$36#演唱会$37",
+       "分类url":"https://www.guangyuhb.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
 "跳转播放链接": "https://www.guangyuhb.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
 "二次跳转播放链接":"https://www.guangyuhb.com/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
