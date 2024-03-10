@@ -10,7 +10,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://gitee.com/io9/family/raw/master/json/JS2/%E5%9C%A8%E7%BA%BF%E4%B8%8B%E8%BD%BD.json",
-      "jar": "http://8.210.232.168/fm商店.jar"
+      "jar": "https://gitee.com/io9/java/raw/master/jar/fm商店.jar"
     },
 
 {"key":"meowtv_海豚短剧","name":"🐬海豚短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/"},
