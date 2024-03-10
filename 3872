@@ -2,6 +2,8 @@
 
 "sites":[
 
+{"key":"csp_XBPQ_晚秋影院","name":"晚秋影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/io9/yun/raw/master/json/JS2/%E6%99%9A%E7%A7%8B%E5%BD%B1%E9%99%A2.json","jar":"https://gitee.com/io9/java/raw/master/jar/feimao230807.jar"},
+
 {
       "key": "更多资源",
       "name": "🛒软件下载",
