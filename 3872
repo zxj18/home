@@ -4,6 +4,12 @@
 
 {"key":"种子短剧","name":"种子短剧","type":1,"api":"http://zzdj.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
 
+{"key":"py_动漫","name":"🐼动漫(py)","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/py/动漫.py"},
+    
+{"key":"py_yhdm6","name":"🐼樱花(py)","type":3,"api":"py_6vFilm","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/py/樱花.py"},
+
+{"key":"csp_xBPQ_4k影视","name":"💚茶茶4k","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://122.51.37.23/man/jar/hccx.jar","ext":"http://122.51.37.23/man/xbpq/茶茶4k.json"},
+
 {
       "key": "更多资源",
       "name": "🛒软件下载",
