@@ -6,7 +6,9 @@
     
 {"key":"csp_荷城短剧","name":"💛荷城短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/xbpq/荷城短剧.json"},
 
-{"key":"种子短剧","name":"种子短剧","type":1,"api":"http://zzdj.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+{"key":"天空短剧","name":"天空短剧","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+
+{"key":"飞速短剧","name":"飞速短剧","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
 
 {"key":"py_动漫","name":"🐼动漫(py)","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/py/动漫.py"},
     
