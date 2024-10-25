@@ -822,8 +822,8 @@
 {"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/PS教程.json","jar":"https://gitee.com/io9/java/raw/master/jar/hccx0821.jar"},
 {"key":"软件","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/io9/json/raw/master/json/JS2/js/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json","jar":"https://gitee.com/io9/java/raw/master/jar/hccx0821.jar"},
 
-{"key":"csp_LocalFile","name":"💻本地视频13129358786","type":3,"api":"csp_Local","searchable":1,"quickSearch":1,"filterable":1,"type_flag":0},
-{"key": "公告","name": "🐬海豚公告www.baidu.com","type": 3,"api": "csp_Notice","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/io9/yunup/raw/main/ggao/gdfmts"}   
+{"key":"csp_LocalFile","name":"💻本地视频1139175200@qq.com","type":3,"api":"csp_Local","searchable":1,"quickSearch":1,"filterable":1,"type_flag":0},
+{"key": "公告","name": "🐬海豚公告https://www.baidu.com","type": 3,"api": "csp_Notice","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/io9/yunup/raw/main/ggao/gdfmts"}   
 //{"key": "csp_FanYY","name": "🧸┃玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"}
 
 
