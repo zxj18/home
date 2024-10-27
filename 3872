@@ -120,6 +120,15 @@
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 
+
+{"key": "csp_XBPQ 皮皮影视","name": "️皮皮影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
+       "分类":"电影$1#电视剧$2#综艺$3#动画$4#纪录片$5#体育$35",
+       "分类url":"https://www.pipi11.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+"跳转播放链接": "https://www.pipi11.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接":"https://www.pipi11.com/detail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+"三次跳转播放链接": "\"url\"*\"&&\""}
+},
+
 {"key": "csp_XBPQ 1029电影","name": "️1029电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
        "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
        "分类url":"https://1029yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
