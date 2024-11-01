@@ -216,9 +216,9 @@
 
 {"key": "csp_XBPQ 1080kk","name": "️1080kk","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
        "分类":"电影$1#连续剧$2#动漫$4#综艺$3",
-       "分类url":"https://www.1080kkk.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
-"跳转播放链接": "https://www.1080kkk.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-"二次跳转播放链接": "https://www.1080kkk.com/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+       "分类url":"https://www.1080kk.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
+"跳转播放链接": "https://www.1080kk.cc/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
+"二次跳转播放链接": "https://www.1080kk.cc/voddetail;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
 "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 
